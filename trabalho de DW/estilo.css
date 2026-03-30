@@ -1,6 +1,10 @@
 .subtitulo{
     color: #590202;
+    font-family:"Parisienne", cursive;
+    font-size: 25px;
+    font-weight: 400;
+    font-style: oblique;
 }
 .lista{
-    color: #8C0808 ;
+    color: #385916 ;
 }
