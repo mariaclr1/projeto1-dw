@@ -1,18 +1,22 @@
 .subtitulo{
-    color: #590202;
+    color: #710000;
     font-family:'Bodoni Mt', Arial, 'Arial Rounded MT';
     font-size: 32.5px;
     font-weight:520;
     font-style: normal;
 }
 .lista{
-    color: #192801;
-    font-family:'Bell MT';
+    color: #62162f;
+    font-family:'Bell MT', Arial;
     font-size: 22.5px;
-    font-weight: 500;
+    font-weight: 599;
     font-style:italic;
 }
 
 .lista2{
-    color:blue;
+    color:#7c274a;
+     font-family:'Bell MT';
+    font-size: 22.5px;
+    font-weight: 599;
+    font-style:italic;
 }
