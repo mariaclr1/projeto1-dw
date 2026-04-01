@@ -1,22 +1,33 @@
 .subtitulo{
-    color: #710000;
+    color: #202045;
     font-family:'Bodoni Mt', Arial, 'Arial Rounded MT';
     font-size: 32.5px;
     font-weight:520;
     font-style: normal;
 }
 .lista{
-    color: #62162f;
-    font-family:'Bell MT', Arial;
-    font-size: 22.5px;
-    font-weight: 599;
+    color: #4c0027;
+    font-family:century, Arial;
+    font-size: 21px;
+    font-weight: 500;
     font-style:italic;
 }
 
 .lista2{
-    color:#7c274a;
+    color:#082032;
      font-family:'Bell MT';
     font-size: 22.5px;
     font-weight: 599;
     font-style:italic;
 }
+
+button{
+        background-color: #f9c9d1;
+        color: black;
+        font-size: 14px;
+        font-family: 'bell mt';
+        font-weight: 300;
+    }
+    button:hover{
+        background-color: #c1f4eb;
+    }
