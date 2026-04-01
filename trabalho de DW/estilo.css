@@ -1,6 +1,15 @@
 body{
   text-align:center;
 }
+.lista{
+    text-align: center;
+    }
+.lista{
+    display: inline-block;
+    text-align: left;
+    padding: 0
+}
+
 
 .subtitulo{
     color: #202045;
