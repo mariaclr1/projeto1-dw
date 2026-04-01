@@ -1,3 +1,7 @@
+body{
+  text-align:center;
+}
+
 .subtitulo{
     color: #202045;
     font-family:'Bodoni Mt', Arial, 'Arial Rounded MT';
@@ -21,14 +25,17 @@
     font-style:italic;
 }
 
-
-    a:hover, span, .hover{ 
+a:hover, span,.hover{ 
+    font-weight: bold;
     border-style: solid;
     border-width: 2px;
-    color: green;
- color: orange;
+ border-color: red;
 }
 
 a:visited, span, .hover{
-    color:purple
+    border-color: #a34c79;
+    color: rgb(62, 121, 121);
+}
+a{
+    color: #4c0027;
 }
