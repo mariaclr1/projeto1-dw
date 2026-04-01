@@ -21,13 +21,14 @@
     font-style:italic;
 }
 
-button{
-        background-color: #f9c9d1;
-        color: black;
-        font-size: 14px;
-        font-family: 'bell mt';
-        font-weight: 300;
-    }
-    button:hover{
-        background-color: #c1f4eb;
-    }
+
+    a:hover, span, .hover{ 
+    border-style: solid;
+    border-width: 2px;
+    color: green;
+ color: orange;
+}
+
+a:visited, span, .hover{
+    color:purple
+}
