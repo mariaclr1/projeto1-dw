@@ -29,7 +29,7 @@ body{
     font-style:italic;
 }
 
-.lista2{
+.lista3{
     color:#161f30;
     font-family:'Bell MT';
     font-size: 22.5px;
@@ -60,5 +60,23 @@ p{
  blockquote{
     color:#4c0027;
     font-family:'Bodoni Mt', Arial, 'Arial Rounded MT';
-    font-size: 16px;
+    font-size: 16.5px;
  }
+
+h1{
+    font-family: 'Engravers MT', Arial, Helvetica, sans-serif;
+    color:#c9a783;
+    border-style: solid;
+    border-color: #c9a783;
+    background-color: #e7decc;
+}
+
+.lista2{
+    color: #4c0027;
+    font-family:century, Arial;
+    font-size: 23px;
+    font-weight: 500;
+    font-style:italic;
+    border-style: solid;
+    border-color:#2b1203;
+}
