@@ -24,7 +24,7 @@ body{
 .lista{
     color: #4c0027;
     font-family:century, Arial;
-    font-size: 21px;
+    font-size: 23px;
     font-weight: 500;
     font-style:italic;
 }
@@ -51,3 +51,14 @@ a:visited, span, .hover{
 a{
     color: #4c0027;
 }
+
+p{
+    color:#161f30;
+    font-family:'Book Antiqua', Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+ blockquote{
+    color:#4c0027;
+    font-family:'Bodoni Mt', Arial, 'Arial Rounded MT';
+    font-size: 16px;
+ }
