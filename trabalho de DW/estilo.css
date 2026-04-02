@@ -65,18 +65,19 @@ p{
 
 h1{
     font-family: 'Engravers MT', Arial, Helvetica, sans-serif;
-    color:#c9a783;
+    color:#263650;
     border-style: solid;
-    border-color: #c9a783;
-    background-color: #e7decc;
+    border-color: #263650;
+    background-color: #a9bbd1;
 }
 
 .lista2{
-    color: #4c0027;
+    color: #e7decc;
     font-family:century, Arial;
     font-size: 23px;
     font-weight: 500;
     font-style:italic;
     border-style: solid;
     border-color:#2b1203;
+    background-color: #936f62;
 }
