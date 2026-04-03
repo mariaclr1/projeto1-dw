@@ -1,11 +1,11 @@
 body{
     background-color: #fdf0d5;
-  text-align:center;
+    text-align: center;
 }
 
 .lista{
     text-align: center;
-    }
+}
 
 .lista{
     display: inline-block;
@@ -19,6 +19,7 @@ body{
     font-size: 34.5px;
     font-weight:520;
     font-style: normal;
+   
 }
 
 .lista{
@@ -27,6 +28,7 @@ body{
     font-size: 20px;
     font-weight: 500;
     font-style:italic;
+    
 }
 
 .lista3{
@@ -35,11 +37,12 @@ body{
     font-size: 20.5px;
     font-weight: 599;
     font-style:italic;
+    margin-right: 500px;
 }
 
  a, span, .hover {
          color: #5b050f;
-       
+        
     }
     
     a:hover, span, .hover {
@@ -63,8 +66,10 @@ p{
  blockquote{
     color:#5b050f;
     font-family:'Bodoni Mt', Arial, 'Arial Rounded MT';
-    font-size: 17.5px;
- }
+    font-size: 16.5px;
+    text-align: left;
+    margin-left: 20px;
+}
 
 #Inicio{
     font-family: 'Engravers MT', Arial, Helvetica, sans-serif;
@@ -84,4 +89,7 @@ p{
     border-style:double;
     border-color:#362017;
     background-color: #936f62;
+}
+cite {
+    margin-left: 0px;
 }
