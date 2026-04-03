@@ -32,7 +32,7 @@ body{
 }
 
 .lista3{
-    color:#263650;
+    color:#5b050f;
     font-family:'Bell MT';
     font-size: 20.5px;
     font-weight: 599;
@@ -61,6 +61,7 @@ p{
     color:#19263b;
     font-family:'Book Antiqua', Arial, Helvetica, sans-serif;
     font-size: 18px;
+    margin-left: 10px;
 }
 
  blockquote{
@@ -83,13 +84,18 @@ p{
 .lista2{
     color: #fdf0d5;
     font-family:century, Arial;
-    font-size: 20.5px;
+    font-size: 19.5px;
     font-weight: 500;
     font-style:italic;
     border-style:double;
     border-color:#362017;
     background-color: #936f62;
+    border-radius: 20%;
+    padding: 5px;
+    width: 25%;
+    margin-left: 550px;
 }
-cite {
+
+    cite {
     margin-left: 0px;
 }
