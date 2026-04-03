@@ -42,17 +42,17 @@ body{
 
  a, span, .hover {
          color: #5b050f;
-        
+        font-size: 20.5px;
     }
     
-    a:hover, span, .hover {
+a:hover, span, .hover {
         font-weight: bold;
         border-style: solid;
         border-width: 2px;
         border-color: #732b2e;
     }
 
-    a:visited, span, .hover {
+a:visited, span, .hover {
          border-color:#e7decc;
          color: #c9a783;
     }
@@ -69,7 +69,7 @@ p{
  blockquote{
     color:#5b050f;
     font-family:'Bodoni Mt', Arial, 'Arial Rounded MT';
-    font-size: 16.5px;
+    font-size: 17px;
     text-align: left;
     margin-left: 20px;
 }
@@ -81,6 +81,8 @@ p{
     border-color: #263650;
     background-color: #a9bbd1;
     border-style:double;
+    height: 25dvh;
+    padding-top:50px ;
 }
 
 .lista2{
@@ -95,13 +97,36 @@ p{
     border-radius: 20%;
     padding: 5px;
     width: 25%;
-    margin-left: 550px;
+    margin-left: 540px;
     margin-bottom: 20px;
 }
-#p1 {
-    color:#245169;
+.p1 {
+    color:#163444;
     font-family:'Book Antiqua', Arial, Helvetica, sans-serif;
     font-size: 20px;
-    width: 20;
-    margin-top: 10px;
+    font-weight: 100px;
+    margin-top: 3% ;
+}
+.cabecalho, span, .hover {
+         color: #5b050f;
+        
+    }
+.cabecalho:hover, span, .hover {
+        font-weight: bold;
+        border-style: solid;
+        border-width: 2px;
+        border-color: #732b2e;
+    }
+.cabecalho:visited, span, .hover {
+         border-color:#7094c1;
+         color: #354c70;
+    }
+.cabecalho {
+    margin-right: 20px;
+    margin-left: 10px;
+    font-size: 19.5;
+}
+.ref{
+    font-size: 16.5px;
+
 }
