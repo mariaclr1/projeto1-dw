@@ -1,5 +1,5 @@
 body{
-    background-color: #fdf0d5;
+    background-color: #feecc7;
     text-align: center;
 }
 
@@ -63,7 +63,7 @@ p{
     font-size: 18px;
     margin: 1% auto;
     margin-left: 5px;
-    margin-right: 5x;
+    margin-right: 5px;
 }
 
  blockquote{
@@ -81,9 +81,9 @@ p{
     border-color: #263650;
     background-color: #a9bbd1;
     border-style:double;
-    height: 25dvh;
     padding-top:50px ;
 }
+
 
 .lista2{
     color: #fdf0d5;
@@ -94,7 +94,7 @@ p{
     border-style:double;
     border-color:#362017;
     background-color: #936f62;
-    border-radius: 20%;
+    border-radius: 100px;
     padding: 5px;
     width: 25%;
     margin: 1.6% auto;
